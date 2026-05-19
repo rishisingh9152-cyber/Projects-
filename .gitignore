@@ -1,0 +1,138 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv
+.env
+
+# Virtual environments
+.venv/
+venv/
+pyvenv.cfg
+
+# Python cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+out/
+target/
+
+# Maven
+.m2/
+repository/
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.c9/
+*.sublime-workspace
+*.sublime-project
+
+# Build outputs
+bin/
+obj/
+dist/
+build/
+
+# Dependencies
+node_modules/
+.npm
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Miscellaneous
+.cache/
+.parcel-cache
+.next
+out
+.nuxt
+dist
+.cache
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+.vscode-test
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Lock files (optional - uncomment to include)
+uv.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
